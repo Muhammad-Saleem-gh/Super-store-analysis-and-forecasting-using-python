@@ -1,4 +1,4 @@
-    # 🧾 **Superstore Data Analysis & Forecasting Report**
+🧾 **Superstore Data Analysis & Forecasting Report**
 
 ## 🏁 1. Objective
 
